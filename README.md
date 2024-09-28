@@ -33,10 +33,17 @@
 
 ## Getting started
 
+Run command 
+```
+ npm run dev
+or
+yarn run dev
+```
+
 To get started with this project, run
 
 ```bash
-  git clone link
+  git clone https://github.com/Umeshkyadav314/digitalhippo.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
