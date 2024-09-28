@@ -1,18 +1,17 @@
 # DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
 
-```
-    This project is a fully developed e-commerce platform built from the ground up using Next.js 14 (App Router).
+- This project is a fully developed e-commerce platform built from the ground up using Next.js 14 (App Router).
     
-    The application includes a hidden admin dashboard for order management, file uploads with drag-and-drop functionality, and direct customer purchase capability.
-```
+- The application includes a hidden admin dashboard for order management, file uploads with drag-and-drop functionality, and direct customer purchase capability.
+
 
 ## Tech Stack
-```Next.js 14	: Framework for building React apps with server-side rendering and routing.
-tRPC	: Typesafe remote procedure calls for full-stack TypeScript applications.
-TypeScript	: Typed superset of JavaScript, improving code quality and maintainability.
-Payload CMS :	Headless CMS for managing content, offering flexible API integration.
-Tailwind CSS :	Utility-first CSS framework for rapid UI design and custom styling.
-```
+- Next.js 14	: Framework for building React apps with server-side rendering and routing.
+- tRPC	: Typesafe remote procedure calls for full-stack TypeScript applications.
+- TypeScript	: Typed superset of JavaScript, improving code quality and maintainability.
+- Payload CMS :	Headless CMS for managing content, offering flexible API integration.
+- Tailwind CSS :	Utility-first CSS framework for rapid UI design and custom styling.
+
 
 ![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
 
